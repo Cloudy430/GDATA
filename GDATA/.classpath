@@ -7,7 +7,7 @@
 	<classpathentry kind="src" path="console"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="/Users/codebrother/Development/Library/log4u.jar"/>
-	<classpathentry kind="lib" path="/Users/codebrother/Development/Library/mysql-connector-java-5.0.4-bin.jar"/>
+	<classpathentry kind="lib" path="lib/log4u.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.0.4-bin.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
